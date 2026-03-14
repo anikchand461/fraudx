@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Wallet Fraud Detector",
+  "name": "FraudX",
   "version": "1.0",
   "action": {
     "default_popup": "popup.html"
